@@ -1,4 +1,4 @@
-# FIEA-Game-Engine_BindingOfIsaac (Private Repository)
+# FIEA Game Engine & Binding Of Isaac Remake (Private Repository)
 
 ## **<u>Full private project available to employers upon request (private for academic integrity).</u>**
 
